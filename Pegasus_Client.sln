@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pegasus_Client", "Pegasus_Client.csproj", "{FD16BC57-697D-472A-B307-8C6D67F618D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD16BC57-697D-472A-B307-8C6D67F618D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD16BC57-697D-472A-B307-8C6D67F618D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD16BC57-697D-472A-B307-8C6D67F618D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD16BC57-697D-472A-B307-8C6D67F618D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABC7D57-94C8-4AAB-88DE-93886966D990}
+	EndGlobalSection
+EndGlobal
